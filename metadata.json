@@ -1,0 +1,6 @@
+{
+  "name": "Navigo - Turismo Inteligente",
+  "description": "Conectando pontos, criando memórias. Plataforma móvel para descoberta de destinos, atrações turísticas, experiências e planejamento inteligente de viagens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
